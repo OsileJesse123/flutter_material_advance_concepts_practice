@@ -12,6 +12,7 @@ class _BackDropPageState extends State<BackDropPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
+      body: const Column(),
     );
   }
 }
